@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Savanna-H
-- 👀 I’m interested in prjgramming and creat node
+- 👀 I’m interested in programming and creat node
 - 💞️ I’m looking to collaborate on GitHub
 
 
